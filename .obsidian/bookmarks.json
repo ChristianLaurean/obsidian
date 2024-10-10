@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1717173968303,
+      "path": "Notas/Aprendizaje.md",
+      "title": "Mis_Notas_DB"
+    },
+    {
+      "type": "file",
+      "ctime": 1717174230238,
+      "path": "config/Cursos.md",
+      "title": "Home"
+    },
+    {
+      "type": "folder",
+      "ctime": 1720708122613,
+      "path": "Notas/Mapas_mentales",
+      "title": "Mapas_Mentales"
+    },
+    {
+      "type": "file",
+      "ctime": 1724254085038,
+      "path": "Notas/notas_db.md",
+      "title": "notas_db"
+    }
+  ]
+}
